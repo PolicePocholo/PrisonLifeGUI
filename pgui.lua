@@ -1,18 +1,3 @@
---[[
-    lemme find the other stats
-    AutoFire false
-    Bullets 1
-    Range 600
-    FireRate 0.08
-    MaxAmmo 15
-    Spread 11
-    Damage 10
-    CurrentAmmo 15
-    StoredAmmo 100
-    ReloadTime 2
-    i dont think spread works either, when i tried it it was dedded
-    Yeah
---]]
 
 local StatBullets = 1
 local StatAutofire = false
